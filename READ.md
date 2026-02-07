@@ -2,7 +2,6 @@
 
 A modern, responsive, and high-performance documentation landing page clone inspired by [Mintlify](https://mintlify.com/). This project replicates the sleek UI/UX of the original Mintlify landing page, featuring a clean aesthetic, interactive components, and a developer-first design.
 
-![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)
 **Live Link:** [https://mintlify-clone-mauve.vercel.app/](https://mintlify-clone-mauve.vercel.app/)
 
 ---
